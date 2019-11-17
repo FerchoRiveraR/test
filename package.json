@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerchoRiveraR/test.git"
+  },
+  "author": "Fernando Rivera <ferchoriverar@gmail.com> (https://github.com/ferchoriverar)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/FerchoRiveraR/test/issues"
+  },
+  "homepage": "https://github.com/FerchoRiveraR/test#readme"
+}
